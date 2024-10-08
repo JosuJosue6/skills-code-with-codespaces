@@ -1,0 +1,7 @@
+{
+    "name":"Codesapce for Skill!",
+    "image":"mcr.microsoft.com/vscode/devcontainers/universal:latest",
+
+    "remoteUser":"codesapce",
+    "overrideCommand":false
+}
